@@ -2,3 +2,4 @@ FROM almalinux:9
 ENV COURSE="DEVOPS" \
     TRAINER="SIVAKUMAR" \
     DURATION="10HRS" \
+CMD ["sleep","100"]
